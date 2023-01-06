@@ -1,0 +1,35 @@
+{
+  "manifest": {
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "...original lambda URI scrubbed..."
+        },
+        "regions": {
+          "EU": {
+            "endpoint": {
+              "uri": "...original lambda URI scrubbed..."
+            }
+          },
+          "NA": {
+            "endpoint": {
+              "uri": "...original lambda URI scrubbed..."
+            }
+          },
+          "FE": {
+            "endpoint": {
+              "uri": "...original lambda URI scrubbed..."
+            }
+          }
+        }
+      }
+    },
+    "publishingInformation": {
+      "locales": {
+        "en-US": {
+          "name": "MisterKnowItAll"
+        }
+      }
+    }
+  }
+}
